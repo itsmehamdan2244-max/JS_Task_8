@@ -1,4 +1,6 @@
-var sub1 = Number(prompt("Enter marks for subject 1. Each subject carry equal marks: 100"));
+var sub1 = Number(prompt(`
+    Enter marks for subject 1. 
+    (Each question carry equal marks: 100)`));
 var sub2 = Number(prompt("Enter marks for subject 2:"));
 var sub3 = Number(prompt("Enter marks for subject 3:"));
 var sub4 = Number(prompt("Enter marks for subject 4:"));
